@@ -21,10 +21,10 @@
 
 
 <br/>
-  <p>
-    <strong>WARNING:</strong> This project is under contruction.
-  </p>
-<br/>
+
+<p>
+  <strong>WARNING:</strong> This project is under contruction.
+</p>
 
 
 <br/>
@@ -33,10 +33,10 @@
 ## :bulb: About the project
 
 <br/>
-
 <div align="center">
   <img src="./.github/cover.png" alt="Project cover" width="750" >
 </div>
+<br/>
 
 Welcome to Solar System!
 
@@ -47,15 +47,19 @@ This application is based on @umpontoseis solar sistem design project, created b
   . [Assets avaiable on Google Drive](https://drive.google.com/drive/folders/1thjrYH4W0yjgkG4fM2PL0bCdTw6QhUl_?usp=sharing) <br/>
 
 
-<div align="center">
-  <img src="./.github/home.png" alt="Screens example" width="750" >
-</div>
 
+<br/>
+<strong>The project is still under contruction and we'll be building this TOGETHER.</strong>
+<br/>
 
-The project is still under contruction and we'll be building this TOGETHER.
 
 Every week I'll go live on [Twitch](https://www.twitch.tv/whoisiara) and code a part of it, while trying to learn React Native.
 
+<br/>
+
+<div align="center">
+  <img src="./.github/home.png" alt="Screens example" width="750" >
+</div>
 
 <br/>
 <a name="technologies"/>
