@@ -11,10 +11,10 @@
 
 <br/>
 <p align="center">
- <a href="#sobre">Objetivo</a>  •
- <a href="#tecnologias">Tecnologias</a>  •
- <a href="#pre-requisitos">Pré-requisitos</a>  •
- <a href="#licenc-a">Licença</a>  •
+ <a href="#sobre">Objetivo</a>   •
+ <a href="#tecnologias">Tecnologias</a>   •
+ <a href="#pre-requisitos">Pré-requisitos</a>   •
+ <a href="#licenc-a">Licença</a>   •
  <a href="#autor">Autor</a>
 </p>
 
@@ -46,10 +46,10 @@ Esta aplicação é baseada no design disponibilizado pela @umpontoseis, criado 
 
 
 <br/>
-<strong>O app ainda não está pronto e você pode acompanhar o desenvolvimento dele</strong>
+<strong>O app ainda não está pronto, mas você pode acompanhar o desenvolvimento dele.</strong>
 <br/>
 
-Toda semana vou estar ao vivo na [Twitch](https://www.twitch.tv/whoisiara) implementando partes do projeto e as lives ficaram gravadas para quem quiser acompanhar.
+Toda semana vou estar ao vivo na [Twitch](https://www.twitch.tv/whoisiara) implementando partes do projeto e as lives ficarão gravadas para quem quiser acompanhar.
 
 <br/>
 
@@ -84,9 +84,9 @@ Toda semana vou estar ao vivo na [Twitch](https://www.twitch.tv/whoisiara) imple
 
 ANTES DE MAIS NADA
 
-. è ideal que você tenha seu ambiente configurado para que a aplicação possa ser executada. [Siga este tutorial caso precise de ajuda](https://react-native.rocketseat.dev/) <br/>
+. É ideal que você tenha seu ambiente configurado para que a aplicação possa ser executada. [Siga este tutorial caso precise de ajuda](https://react-native.rocketseat.dev/) <br/>
 
-- Também, é necessário ter um gerenciador de pacotes seja o `npm` ou `yarn`;
+. Também, é necessário ter um gerenciador de pacotes seja o `npm` ou `yarn`; <br/>
 
 
 CLONE ESSE REPOSITÓRIO

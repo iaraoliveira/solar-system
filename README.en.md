@@ -11,10 +11,10 @@
 
 <br/>
 <p align="center">
- <a href="#about">About</a>  •
- <a href="#technologies">Technologies</a>  •
- <a href="#how-to-run">How to run</a>  •
- <a href="#license">License</a>  •
+ <a href="#about">About</a>   •
+ <a href="#technologies">Technologies</a>   •
+ <a href="#how-to-run">How to run</a>   •
+ <a href="#license">License</a>   •
  <a href="#author">Author</a>
 </p>
 
@@ -87,7 +87,7 @@ FIRST OF ALL
 
 . You need to configure your machine to run the application properly. [There is an tutorial](https://react-native.rocketseat.dev/) <br/>
 
-. Also, it's very important to have a package manager, you can use `yarn` or `npm`;
+. Also, it's very important to have a package manager, you can use `yarn` or `npm`; <br/>
 
 
 CLONE THIS REPOSITORY
