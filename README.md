@@ -1,6 +1,6 @@
 <div align="right" >
-   <a href="./README.pt.md">
-    <img src="./.github/lg-button-pt.png" alt="pt-br" width="180px" ></img>
+    <a href="./README.en.md">
+    <img src="./.github/lg-button-en.png" alt="es-en" width="180px" ></img>
   </a>
 </div>
 <br/>
@@ -9,16 +9,14 @@
   <img src="./.github/logo.png" alt="Solar System" />
 </div>
 
-
 <br/>
 <p align="center">
- <a href="#about">About</a>  •
- <a href="#technologies">Technologies</a>  •
- <a href="#how-to-run">How to run</a>  •
- <a href="#license">License</a>  •
- <a href="#author">Author</a>
+ <a href="#sobre">Objetivo</a>  •
+ <a href="#tecnologias">Tecnologias</a>  •
+ <a href="#pre-requisitos">Pré-requisitos</a>  •
+ <a href="#licenc-a">Licença</a>  •
+ <a href="#autor">Autor</a>
 </p>
-
 
 <br/>
 
@@ -26,47 +24,47 @@
   <strong>WARNING:</strong> This project is under contruction.
 </p>
 
-
 <br/>
-<a name="about"/>
 
-## :bulb: About the project
+<a name="sobre"/>
+
+## :bulb: Sobre o projeto
 
 <br/>
 <div align="center">
-  <img src="./.github/cover.png" alt="Project cover" width="750" >
+  <img src="./.github/cover.png" alt="Capa do projeto" width="750" >
 </div>
 <br/>
 
-Welcome to Solar System!
+Entre numa jornada pelo sistema solar!
 
-This application is based on @umpontoseis solar sistem design project, created by designers for devs, and you can find it here:
+Esta aplicação é baseada no design disponibilizado pela @umpontoseis, criado pela comunidade de designers para devs, e você pode encontrar o projeto aqui:
 
-  . [Link to the project on Figma](https://www.figma.com/community/file/871911270417939544/Solar-System---Jonas-Milan) <br/>
+  . [Link para o projeto no Figma](https://www.figma.com/community/file/871911270417939544/Solar-System---Jonas-Milan) <br/>
 
-  . [Assets avaiable on Google Drive](https://drive.google.com/drive/folders/1thjrYH4W0yjgkG4fM2PL0bCdTw6QhUl_?usp=sharing) <br/>
-
+  . [Assets disponíveis no Google Drive](https://drive.google.com/drive/folders/1thjrYH4W0yjgkG4fM2PL0bCdTw6QhUl_?usp=sharing) <br/>
 
 
 <br/>
-<strong>The project is still under contruction and we'll be building this TOGETHER.</strong>
+<strong>O app ainda não está pronto e você pode acompanhar o desenvolvimento dele</strong>
 <br/>
 
-
-Every week I'll go live on [Twitch](https://www.twitch.tv/whoisiara) and code a part of it, while trying to learn React Native.
+Toda semana vou estar ao vivo na [Twitch](https://www.twitch.tv/whoisiara) implementando partes do projeto e as lives ficaram gravadas para quem quiser acompanhar.
 
 <br/>
 
 <div align="center">
-  <img src="./.github/home.png" alt="Screens example" width="750" >
+  <img src="./.github/home.png" alt="Exemplos de tela" width="750" >
 </div>
 
 <br/>
-<a name="technologies"/>
+<a name="tecnologias"/>
 
-## :rocket: Technologies and Docs
+## :rocket: Tecnologias e Docs
 
-  . [React Native](https://reactnative.dev/) <br/>
+  Abaixo segue as ferramentas utilizadas na criação do projeto e os links para suas respectivas documentações. (Caso eu tenha esquecido de alguma, me avise)
+
+ . [React Native](https://reactnative.dev/) <br/>
 
   . [React Navigation](https://reactnavigation.org/) <br/>
 
@@ -79,21 +77,19 @@ Every week I'll go live on [Twitch](https://www.twitch.tv/whoisiara) and code a 
   . [ESLint](https://eslint.org/), [Prettier](https://prettier.io/) and [EditorConfig](https://editorconfig.org/)<br/>
 
 
-
 <br/>
-<a name="how-to-run"/>
+<a name="pre-requisitos"/>
 
-## :computer: How to run
+## :computer: Como executar o projeto
+
+ANTES DE MAIS NADA
+
+. è ideal que você tenha seu ambiente configurado para que a aplicação possa ser executada. [Siga este tutorial caso precise de ajuda](https://react-native.rocketseat.dev/) <br/>
+
+- Também, é necessário ter um gerenciador de pacotes seja o `npm` ou `yarn`;
 
 
-FIRST OF ALL
-
-. You need to configure your machine to run the application properly. [There is an tutorial](https://react-native.rocketseat.dev/) <br/>
-
-. Also, it's very important to have a package manager, you can use `yarn` or `npm`;
-
-
-CLONE THIS REPOSITORY
+CLONE ESSE REPOSITÓRIO
 
 ```sh
 
@@ -101,50 +97,51 @@ $ git clone https://github.com/iaraoliveira/solar-system.git
 
 ```
 
-INSTALLING THE DEPENDENCIES
+INSTALE AS DEPENDÊNCIAS
 
 ```sh
 
-# run this if you're using yarn
+# caso você utilize o yarn
 $ yarn
 
-# or this if you're using npm
+# caso você utilize o npm
 $ npm install
 
 ```
 
-RUN THE APPLICATION
+EXECUTE A APLICAÇÃO
+
 
 ```sh
 
-# start the application
+# inicie a aplicação
 $ yarn start
 
-# then open another instance of your terminal
+# abra outra instância do seu terminal
 
-# verify if you have any devices connected
+# verifique se há dispositivos conectados
+# caso não, inicie um emular ou conecte seu celular em modo desenvolvedor
 $ adb devices
 
-# run the app
+# execute o app no seu dispositivo
 $ yarn android
 
 ```
 
+<br/>
+<a name="licenc-a"/>
+
+## :notebook_with_decorative_cover: Licença
+
+
+Este projeto está sob licença MIT, para saber mais, acesse o arquivo [LICENSE](./LICENSE.md)
 
 
 <br/>
-<a name="license"/>
-
-## :notebook_with_decorative_cover: License
-
-This project is under the MIT license, you can read more about it in [LICENSE](./LICENSE.md)
-
-
-<br/>
-<a name="author"/>
+<a name="autor"/>
 
 <div align='center'>
-  <strong>With :white_heart: by iara</strong>
+  <strong>Feito com :white_heart: por iara</strong>
   <br/>
-  <a href="https://www.linkedin.com/in/iara/">Let's talk</a>
+  <a href="https://www.linkedin.com/in/iara/">entre em contato</a>
 </div>
