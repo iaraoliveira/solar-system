@@ -21,7 +21,7 @@
 <br/>
 
 <p>
-  <strong>WARNING:</strong> This project is under contruction.
+  <strong>ATENÇÃO:</strong> Este projeto está em andamento.
 </p>
 
 <br/>
@@ -86,7 +86,7 @@ ANTES DE MAIS NADA
 
 . É ideal que você tenha seu ambiente configurado para que a aplicação possa ser executada. [Siga este tutorial caso precise de ajuda](https://react-native.rocketseat.dev/) <br/>
 
-. Também, é necessário ter um gerenciador de pacotes seja o `npm` ou `yarn`; <br/>
+. Também, é necessário ter um gerenciador de pacotes como o `npm` ou `yarn`; <br/>
 
 
 CLONE ESSE REPOSITÓRIO
