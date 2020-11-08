@@ -15,7 +15,6 @@
  <a href="#about">About</a>  •
  <a href="#technologies">Technologies</a>  •
  <a href="#how-to-run">How to run</a>  •
- <a href="#contributions">Contributions</a>  •
  <a href="#license">License</a>  •
  <a href="#author">Author</a>
 </p>
@@ -49,7 +48,7 @@ This application is based on @umpontoseis solar sistem design project, created b
 
 
 <div align="center">
-  <img src="./.github/home.png" alt="Project cover" width="750" >
+  <img src="./.github/home.png" alt="Screens example" width="750" >
 </div>
 
 
@@ -87,14 +86,14 @@ FIRST OF ALL
 
 . You need to configure your machine to run the application properly. [There is an tutorial](https://react-native.rocketseat.dev/) <br/>
 
-- Also, it's very important to have a package manager, you can use `yarn` or `npm`;
+. Also, it's very important to have a package manager, you can use `yarn` or `npm`;
 
 
 CLONE THIS REPOSITORY
 
 ```sh
 
-$ git clone https://github.com/iaraoliveira/my-repository.git
+$ git clone https://github.com/iaraoliveira/solar-system.git
 
 ```
 
