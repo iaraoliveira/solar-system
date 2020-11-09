@@ -70,6 +70,8 @@ Toda semana vou estar ao vivo na [Twitch](https://www.twitch.tv/whoisiara) imple
 
   . [React Native Gesture Handler](https://docs.swmansion.com/react-native-gesture-handler/index.html) <br/>
 
+  . [React Native SVG](https://github.com/react-native-svg/react-native-svg) <br/>
+
   . [Babel](https://babeljs.io/) <br/>
 
   . [Styled Components](https://nodejs.org/en/) <br/>
