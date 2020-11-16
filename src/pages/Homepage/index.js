@@ -1,12 +1,20 @@
 import React from 'react';
 
-import {Container, Title} from './styles';
+import {Container, ContainerWelcome, WelcomeText, Title, IconButton} from './styles';
 
 const Homepage = () => {
     return (
      <Container>
 
-      <Title>Hellooo, there</Title>
+     <ContainerWelcome>
+      <WelcomeText>Olá, Ana Cecília</WelcomeText>
+      <Title>O que você vai aprender hoje?</Title>
+
+      <IconButton/>
+     </ContainerWelcome>
+
+     {/* <SearchInput/> */}
+
     </Container>
   );
 };

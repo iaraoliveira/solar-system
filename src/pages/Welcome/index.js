@@ -7,24 +7,29 @@ import ForwardIcon from '../../assets/icons/forward.svg';
 
 import {Container, TextContainer, Title, Subtitle, Span, Button, TextButton, IconButton} from './styles';
 
-const Homepage = () => {
+const Homepage = ({ navigation }) => {
+
+  const handleStart = () => {
+    navigation.navigate('Homepage');
+  }
+
   return (
-    <Container>
-      {/* <BackgroundImage style={{flex:1}}/> */}
+      <Container>
+        <BackgroundImage style={{flex:1, position:'absolute'}}/>
 
-      <TextContainer>
-        <Subtitle>Aperte o cinto</Subtitle>
-        <Title>Comece sua jornada pelo sistema solar</Title>
-      </TextContainer>
+        <TextContainer>
+          <Subtitle>Aperte o cinto</Subtitle>
+          <Title>Comece sua jornada pelo sistema solar</Title>
+        </TextContainer>
 
-      <Span>Pronto para a decolagem?</Span>
+          <Span>Pronto para a decolagem?</Span>
 
-      <Button>
-        <TextButton>Começar agora</TextButton>
-        <IconButton/>
-      </Button>
+          <Button onPress={()=> handleStart()}>
+            <TextButton>Começar agora</TextButton>
+            <IconButton/>
+          </Button>
 
-    </Container>
+      </Container>
   );
 };
 

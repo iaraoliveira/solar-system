@@ -9,7 +9,7 @@ import {NavigationContainer} from '@react-navigation/native';
 const App = () => {
   return (
     <>
-      <StatusBar backgroundColor="#151515" barStyle="light-content" />
+      <StatusBar backgroundColor="#000" translucent barStyle="light-content" />
 
       <NavigationContainer>
         <Routes />

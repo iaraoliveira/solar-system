@@ -42,7 +42,6 @@ export const Span = styled.Text`
   font-size: 14px;
 
   margin-bottom: 16px;
-  /* text-align: center; */
 `;
 
 export const Button = styled(RectButton)`
@@ -55,6 +54,7 @@ export const Button = styled(RectButton)`
   flex-direction:row;
   justify-content: space-around;
   align-items:center;
+
 `;
 
 export const TextButton = styled.Text`
