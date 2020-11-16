@@ -7,7 +7,7 @@ const Homepage = () => {
      <Container>
 
      <ContainerWelcome>
-      <WelcomeText>Olá, Ana Cecília</WelcomeText>
+      <WelcomeText>Olá, Jeovana :)</WelcomeText>
       <Title>O que você vai aprender hoje?</Title>
 
       <IconButton/>
